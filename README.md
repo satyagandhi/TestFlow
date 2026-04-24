@@ -12,3 +12,4 @@ This project simulates real-world application testing.
 ## Run
 Automated using GitHub Actions# TestFlow
 End-to-End Application Testing &amp; UAT Automation Framework
+
